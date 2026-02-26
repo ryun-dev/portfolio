@@ -1,0 +1,24 @@
+body{
+font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+margin: 0;
+background: #f4f6f8;
+}
+.card{
+max-width: 720px;
+margin: 40px auto;
+background: white;
+padding: 28px;
+border-radius: 14px;
+box-shadow: 0 8px 30px rgba(0,0,0,.08);
+}
+.sub{ color:#555; margin-top:-6px; }
+h2{ margin-top: 22px; }
+.msg{ margin-top: 12px; font-weight: 600; }
+button{
+margin-top: 10px;
+padding: 10px 14px;
+border: 0;
+border-radius: 10px;
+cursor: pointer;
+}
+a{ color:#0b57d0; }
